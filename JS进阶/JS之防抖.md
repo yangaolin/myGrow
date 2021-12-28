@@ -47,3 +47,5 @@ container.onmousemove = getUserAction;
 ```
 
 我们来看看效果：
+![1](https://user-images.githubusercontent.com/19302489/147581034-6327579b-3ece-4ef4-aaff-5ab8ebec5e88.gif)
+
